@@ -6,7 +6,7 @@
 # Description  
 An application like Awwards (It doesn't necessarily have to be exactly the same). The application will allow a user to post a project he/she has created and get it reviewed by his/her peers.
 ##  Live Link  
- Click [https://the-instgramclone.herokapp.com/](Instagram clone)  to visit the site
+ Click [https://awaards-clone.herokuapp.com/](Instagram clone)  to visit the site
   
 
 ## User Story  
